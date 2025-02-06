@@ -5,7 +5,7 @@ I am a student studying Computer Science 🖥️🛠️
 I like:
 - Custom Keyboards
 - Gaming
-- Open Source Projects
+- Open-Source Projects
 
 I want to learn more:
 - Python, Machine Learning, Game Development, App Development and Cybersecurity
