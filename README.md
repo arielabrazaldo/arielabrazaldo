@@ -1,2 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Ariel!
+
+I am a student studying Computer Science 
+
+I like:
+- Custom Keyboards
+- Gaming
+- Open Source Projects
+
+I want to learn more:
+- Python, Machine Learning, and Cybersecurity
+
+![arielabrazaldo](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
 
