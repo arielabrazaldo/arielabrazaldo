@@ -8,7 +8,7 @@ I like:
 - Open Source Projects
 
 I want to learn more:
-- Python, Machine Learning, and Cybersecurity
+- Python, Machine Learning, Game Development and Cybersecurity
 
 ![arielabrazaldo](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
