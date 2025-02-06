@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ariel!
 
-I am a student studying Computer Science 
+I am a student studying Computer Science 🖥️🛠️
 
 I like:
 - Custom Keyboards
